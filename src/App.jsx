@@ -10,7 +10,7 @@ function App() {
       alert("please enter amount");
     } else {
       var options = {
-        //Generate key and secreat from logging in to razorpay app in browser
+        //Generate key and secreat from logging in to razorpay app in browser (https://razorpay.com/)
         key: "rzp_test_ffSb2yIkIflJH9",
         key_secret: "iExGzM7nCvTIo41Rk4iV9kye",
         amount: amount,
